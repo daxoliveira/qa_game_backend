@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "question": "Yuca is a type of what?",
+    "answers": 
+      [
+        {
+          "id": 1,
+          "answer": "Flower",
+          "correctAnswer": false
+        },
+        {
+          "id": 2,
+          "answer": "Fruit",
+          "correctAnswer": false
+        },
+        {
+          "id": 3,
+          "answer": "Stone",
+          "correctAnswer": false
+        },
+        {
+          "id": 4,
+          "answer": "Root",
+          "correctAnswer": true
+        }
+      ]
+  },
+
+  {
+    "id": 2,
+    "question": "Which country is famous because of its tango dance?",
+    "answers": 
+    [
+      {
+        "id": 1,
+        "answer": "Uruguay",
+        "correctAnswer": false
+      },
+      {
+        "id": 2,
+        "answer": "Paraguay",
+        "correctAnswer": false
+      },
+      {
+        "id": 3,
+        "answer": "Spain",
+        "correctAnswer": false
+      },
+      {
+        "id": 4,
+        "answer": "Argentina",
+        "correctAnswer": true
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "question": "Which of these action movie stars is Belgian?",
+    "answers": 
+    [
+      {
+        "id": 1,
+        "answer": "Sylvester Stalone",
+        "correctAnswer": false
+      },
+      {
+        "id": 2,
+        "answer": "Jean Claude Van Damme",
+        "correctAnswer": true
+      },
+      {
+        "id": 3,
+        "answer": "Arnold Schwarzenegger",
+        "correctAnswer": false
+      },
+      {
+        "id": 4,
+        "answer": "Steven Seagal",
+        "correctAnswer": false
+      }
+    ]
+  },
+
+  {
+    "id": 4,
+    "question": "Which holiday kids dress up in scary costumes?",
+    "answers": 
+    [
+      {
+        "id": 1,
+        "answer": "Christmas",
+        "correctAnswer": false
+      },
+      {
+        "id": 2,
+        "answer": "New Years",
+        "correctAnswer": false
+      },
+      {
+        "id": 3,
+        "answer": "Halloween",
+        "correctAnswer": true
+      },
+      {
+        "id": 4,
+        "answer": "Easter",
+        "correctAnswer": false
+      }
+    ]
+  },
+
+  {
+    "id": 5,
+    "question": "Which cartoon character lives in a pineapple under the sea?",
+    "answers": 
+    [
+      {
+        "id": 1,
+        "answer": "Mickey",
+        "correctAnswer": false
+      },
+      {
+        "id": 2,
+        "answer": "Superman",
+        "correctAnswer": false
+      },
+      {
+        "id": 3,
+        "answer": "SpongeBob",
+        "correctAnswer": true
+      },
+      {
+        "id": 4,
+        "answer": "Dora the Explorer",
+        "correctAnswer": false
+      }
+    ]
+  },
+
+  {
+    "id": 6,
+    "question": "How long is the gestation period of an African elephant?",
+    "answers": 
+    [
+      {
+        "id": 1,
+        "answer": "22 months",
+        "correctAnswer": true
+      },
+      {
+        "id": 2,
+        "answer": "14 months",
+        "correctAnswer": false
+      },
+      {
+        "id": 3,
+        "answer": "26 months",
+        "correctAnswer": false
+      },
+      {
+        "id": 4,
+        "answer": "3 years",
+        "correctAnswer": false
+      }
+    ]
+  },
+
+  {
+    "id": 7,
+    "question": "Who is the group of people sworn to make a decision/deliver a verdict in court?",
+    "answers": 
+    [
+      {
+        "id": 1,
+        "answer": "Plaintiff",
+        "correctAnswer": false
+      },
+      {
+        "id": 2,
+        "answer": "Jury",
+        "correctAnswer": true
+      },
+      {
+        "id": 3,
+        "answer": "Prosecutors",
+        "correctAnswer": false
+      },
+      {
+        "id": 4,
+        "answer": "Judges",
+        "correctAnswer": false
+      }
+    ]
+  },
+
+  {
+    "id": 8,
+    "question": "What is the slogan of Apple Inc.?",
+    "answers": 
+    [
+      {
+        "id": 1,
+        "answer": "Think different",
+        "correctAnswer": true
+      },
+      {
+        "id": 2,
+        "answer": "Just do it",
+        "correctAnswer": false
+      },
+      {
+        "id": 3,
+        "answer": "The breakfast of champions",
+        "correctAnswer": false
+      },
+      {
+        "id": 4,
+        "answer": "The relentless pursuit of perfection",
+        "correctAnswer": false
+      }
+    ]
+  },
+
+  {
+    "id": 9,
+    "question": "The Roman God of War inspired the name of which planet?",
+    "answers": 
+    [
+      {
+        "id": 1,
+        "answer": "Saturn",
+        "correctAnswer": false
+      },
+      {
+        "id": 2,
+        "answer": "Venus",
+        "correctAnswer": false
+      },
+      {
+        "id": 3,
+        "answer": "Mercury",
+        "correctAnswer": false
+      },
+      {
+        "id": 4,
+        "answer": "Mars",
+        "correctAnswer": true
+      }
+    ]
+  },
+
+  {
+    "id": 10,
+    "question": "What classic video game requires you to eat all the dots throughout a maze?",
+    "answers": 
+    [
+      {
+        "id": 1,
+        "answer": "Pac-Man",
+        "correctAnswer": true
+      },
+      {
+        "id": 2,
+        "answer": "Tetris",
+        "correctAnswer": false
+      },
+      {
+        "id": 3,
+        "answer": "Donkey Kong",
+        "correctAnswer": false
+      },
+      {
+        "id": 4,
+        "answer": "Super Mario Bros",
+        "correctAnswer": false
+      }
+    ]
+  }
+
+]
