@@ -4,7 +4,7 @@
 
 ### `Step 1 - git clone`
 Open your terminal and paste the command below and hit enter.
-"git clone https://github.com/daxoliveira/questions_and_answers_game_backend.git"
+"git clone https://github.com/daxoliveira/qa_game_backend.git"
 
 ### `Step 2 - npm install`
 You just need to cd into questions_and_answers_game, type "npm install", and hit enter.
